@@ -1,0 +1,10 @@
+Logic appiled is 
+
+if minimum units ie less than 40 units the 
+
+amout = unit * 1.50;
+and unitcharge = 90;
+
+total = amout + unitcharge
+
+take a look on the image given in the repo
